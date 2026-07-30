@@ -7,7 +7,7 @@
 - Fetch API
   
 ### Demo:
-https://boostertech.github.io/currency_converter/
+https://boostertech.github.io/Currency-Converter/
 ### How it works?
 1. Insert an **Amount** in PLN (*required field).
 2. Choose **Currency** you would like to convert to.
